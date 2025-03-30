@@ -30,10 +30,11 @@
 
     <script>
         $(document).ready(function () {
-            var totalSubjects = @ViewBag.TotalSubjects;
-            var totalHoursForWeek = @ViewBag.TotalHoursForWeek;
+            debugger;
+            let totalSubjects = @ViewBag.TotalSubjects;
+            let totalHoursForWeek = @ViewBag.TotalHoursForWeek;
 
-            for (var i = 0; i < totalSubjects; i++) {
+            for (let i = 0; i < totalSubjects; i++) {
                 $("#subjectsContainer").append(`
                         <div class="mb-3 row">
                             <div class="col-md-6">
@@ -49,22 +50,23 @@
             }
 
             function validateTotalHours() {
-                var total = 0;
+                let total = 0;
                 $(".subjectHours").each(function () {
-                    var value = parseInt($(this).val()) || 0;
+                    let value = parseInt($(this).val()) || 0;
                     total += value;
                 });
 
-                console.log("Entered Total Hours:", total); 
+                console.log("Entered Total Hours:", total);
                 $("#enteredHours").text(total);
                 if (total === totalHoursForWeek) {
                     $("#generateBtn").prop('disabled', false);
                     $("#errorMessage").hide();
                 } else {
                     $("#generateBtn").prop('disabled', true);
+                    $("#requiredHours").text(totalHoursForWeek);
                     $("#errorMessage").show();
                 }
-            
+            }
             $(document).on("input", ".subjectHours", validateTotalHours);
         });
     </script>

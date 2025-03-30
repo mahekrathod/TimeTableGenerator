@@ -17,6 +17,10 @@ namespace TimeTableGeneratorProject.Controllers
         {
             return View();
         }
+        public IActionResult GenerateHours()
+        {
+            return View();
+        }
         [HttpPost]
         public ActionResult GenerateHours(int WorkingDays, int SubjectsPerDay, int TotalSubjects)
         {
