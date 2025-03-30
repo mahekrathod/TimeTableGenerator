@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mahek\\TimeTableGeneratorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|d:\\mahek\\timetablegeneratorproject\\views\\home\\generatehours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|solutionrelative:views\\home\\generatehours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|d:\\mahek\\timetablegeneratorproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|d:\\mahek\\timetablegeneratorproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|d:\\mahek\\timetablegeneratorproject\\views\\home\\timetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1856205-0FF9-4536-B943-82530B442354}|TimeTableGeneratorProject.csproj|solutionrelative:views\\home\\timetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Mahek\\TimeTableGeneratorProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Mahek\\TimeTableGeneratorProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T10:15:28.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeTable.cshtml",
+              "DocumentMoniker": "D:\\Mahek\\TimeTableGeneratorProject\\Views\\Home\\TimeTable.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TimeTable.cshtml",
+              "ToolTip": "D:\\Mahek\\TimeTableGeneratorProject\\Views\\Home\\TimeTable.cshtml",
+              "RelativeToolTip": "Views\\Home\\TimeTable.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:37:08.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateHours.cshtml",
+              "DocumentMoniker": "D:\\Mahek\\TimeTableGeneratorProject\\Views\\Home\\GenerateHours.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GenerateHours.cshtml",
+              "ToolTip": "D:\\Mahek\\TimeTableGeneratorProject\\Views\\Home\\GenerateHours.cshtml",
+              "RelativeToolTip": "Views\\Home\\GenerateHours.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T09:36:22.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Mahek\\TimeTableGeneratorProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Mahek\\TimeTableGeneratorProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T08:34:43.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
